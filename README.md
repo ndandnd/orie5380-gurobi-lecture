@@ -2,6 +2,8 @@
 
 Companion notebook for Nadan's special TA lecture in **ORIE 5380: Optimization Methods** at Cornell Tech. The lecture is shared as a teaching sample.
 
+[Lecture recording](https://youtu.be/ltsenZnZWSg)
+
 [View the class notebook](ORIE5380_Gurobi_Class_Notebook.ipynb) · [Open in Google Colab](https://colab.research.google.com/github/ndandnd/orie5380-gurobi-lecture/blob/main/ORIE5380_Gurobi_Class_Notebook.ipynb)
 
 The notebook introduces modeling in `gurobipy` through bag production, integer programming, network flow, maximum flow and minimum cut, and primal/dual bounds.
